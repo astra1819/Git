@@ -1,3 +1,3 @@
 console.log("SERVER");
-console.log("START");
+console.log("STARTING");
 console.log("CHANGES MADE FROM TEST BRANCH");
